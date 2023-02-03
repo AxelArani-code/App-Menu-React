@@ -1,0 +1,35 @@
+[
+    {
+        id:1,
+        name:'El Café Ideal',
+        descrp:'Clásicos, cafés especiales, cappuccionos, etc',
+        image:'https://raw.githubusercontent.com/AxelArani-code/App-Menu-React/main/Imagen/desayuno.png',
+    },
+    {
+        id:2,
+        name:'Pastelería',
+        descrp:'Torta porción, cookies,cuadradito dulce',
+        image:'https://raw.githubusercontent.com/AxelArani-code/App-Menu-React/main/Imagen/pastel.png',
+
+    },
+    {
+        id:3,
+        name:'Especialidades',
+        descrp:'Croissants rellenos, waffles, tostadas ',
+        image:'https://raw.githubusercontent.com/AxelArani-code/App-Menu-React/main/Imagen/waffles.png',
+    },
+    {
+        id:4,
+        name:'Refrescos',
+        descrp:'Frappés, batidos helados, smoothies, etc',
+        image:'https://raw.githubusercontent.com/AxelArani-code/App-Menu-React/main/Imagen/refresco.png',
+
+    },
+    {
+        id:5,
+        name:'Tentaciones',
+        descrp:'Picada munidal, Bagels, sándwiches de campo, etc',
+        image:'https://raw.githubusercontent.com/AxelArani-code/App-Menu-React/main/Imagen/asdas.png'
+    },
+    
+]
